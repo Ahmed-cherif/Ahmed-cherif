@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ahmed cherif</h1>
 <h3 align="center">Data scientist // Embedded software engineer // Software engineer École nationale de science d'informatique de Tunis ENSI</h3>
 
+- 🔭 I’m currently working on **Ensi**
+
+- 🌱 I’m currently learning **Devops and Software development**
+
+- 💬 Ask me about **IA**
+
+- 📫 How to reach me **ahmed.cherif@ensi-uma.tn**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/ahmed cherif](https://www.linkedin.com/in/ahmed-cherif-061b06148/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed cherif" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-cherif-061b06148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-cherif-061b06148/" height="30" width="40" /></a>
 <a href="https://fb.com/ahmed cherif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed cherif" height="30" width="40" /></a>
 </p>
 
