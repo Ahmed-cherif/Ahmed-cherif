@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Cherif</h1>
-<h3 align="center">Embedded Software Engineer // Software Engineer // Data Scientist 
-               ||                                                                    École nationale de science d'informatique de Tunis ENSI</h3>
-
-- 🔭 I’m currently working on **École nationale de science d'informatique de Tunis ENSI**
-
-- 🌱 I’m currently learning **Devops and Software development**
+<h3 align="center">
 
 - 💬 Ask me about **IA**
 
